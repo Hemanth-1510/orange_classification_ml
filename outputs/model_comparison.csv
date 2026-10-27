@@ -1,0 +1,1 @@
+model,accuracy,macro_precision,macro_recall,macro_f1\nSVM,0.9798,0.9773,0.9773,0.9773\nMobileNetV2,0.9293,0.9301,0.9205,0.9237\n
