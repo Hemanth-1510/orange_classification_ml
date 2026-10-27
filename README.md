@@ -2,6 +2,9 @@
 
 **Scope note:** The supplied Google Drive dataset was an orange dataset, not an avocado dataset. This repository therefore classifies the provided orange labels and does not claim to solve avocado ripening-stage detection. The source labels are `blackspot`, `canker`, `fresh`, and `grenning` (spelling preserved).
 
+##Google-colab link
+https://colab.research.google.com/drive/1wPJXMeNacu3eiFJbRKuTmXOqwxGz0Msu?usp=sharing
+
 ## Recorded held-out test results (99 images)
 
 | Model | Accuracy | Macro precision | Macro recall | Macro F1 |
